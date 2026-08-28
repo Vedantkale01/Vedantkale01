@@ -78,3 +78,9 @@ A structured repository documenting my Java Full Stack learning journey, includi
 ### 🔨 Java Full Stack Projects
 
 🚧 Currently building projects with Java, Spring Boot, REST APIs, React, and SQL.
+
+## 🤝 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/vedantkale01)
+* 🐙 [GitHub](https://github.com/vedantkale01)
+* 📧 Email: vedantramdaskale@gmail.com
