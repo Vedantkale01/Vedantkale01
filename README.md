@@ -41,3 +41,40 @@ Git • GitHub • VS Code • Eclipse • Postman
 
 AI API Integration • Exploring AI-powered Java Applications
 
+## 🚀 Featured Projects
+
+### 💼 Internship Projects
+
+#### 🧱 BRICKS
+
+A web application developed during my frontend development internship using the MERN stack.
+
+**Tech:** React • JavaScript • Node.js • Express.js • MongoDB
+
+#### 🍰 Bakery Management
+
+A web application developed as part of my internship work, focused on creating a functional and responsive user interface.
+
+**Tech:** React • JavaScript • Node.js • Express.js • MongoDB
+
+#### 🌾 Farming Application
+
+A web application developed during my internship, focused on building a user-friendly interface for a farming-related use case.
+
+**Tech:** React • JavaScript • Node.js • Express.js • MongoDB
+
+#### 🤖 AI Voice Agent System
+
+A frontend project developed during my internship for an AI-powered voice agent system.
+
+**Tech:** React • JavaScript • AI Integration
+
+### ☕ Java Learning
+
+A structured repository documenting my Java Full Stack learning journey, including Core Java, OOP, Collections, Exception Handling, Multithreading, Streams, JDBC, Oracle SQL, and programming practice.
+
+**Tech:** Java • JDBC • Oracle SQL
+
+### 🔨 Java Full Stack Projects
+
+🚧 Currently building projects with Java, Spring Boot, REST APIs, React, and SQL.
