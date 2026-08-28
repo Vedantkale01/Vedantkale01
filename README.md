@@ -78,7 +78,7 @@ I'm currently focused on becoming a **Java Full Stack Developer** and building p
 
 ## 🚀 Featured Projects
 
-### ☕ Java Learning — Personal Repository
+### ☕ [Java Learning](https://github.com/Vedantkale01/java-learning) — Personal Repository
 
 A structured repository documenting my Java Full Stack learning journey, covering Core Java, OOP, Collections, Exception Handling, Multithreading, Streams, JDBC, Oracle SQL, and programming practice.
 
