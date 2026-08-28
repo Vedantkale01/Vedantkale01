@@ -80,39 +80,39 @@ I'm currently focused on becoming a **Java Full Stack Developer** and building p
 
 ### ☕ Java Learning — Personal Repository
 
-A structured repository documenting my Java Full Stack learning journey, including Core Java, OOP, Collections, Exception Handling, Multithreading, Streams, JDBC, Oracle SQL, and programming practice.
+A structured repository documenting my Java Full Stack learning journey, covering Core Java, OOP, Collections, Exception Handling, Multithreading, Streams, JDBC, Oracle SQL, and programming practice.
 
 **Type:** Personal Learning Repository
 **Tech:** Java • JDBC • Oracle SQL
 
-### 💼 Internship & Team Projects
+### 💼 Internship Projects
 
 #### 🧱 [BRICKS](https://github.com/Vedantkale01/Bricks)
 
-A collaborative web application developed as part of my internship experience. Worked as part of a team of contributors on the project.
+A collaborative web application developed during my Frontend Development Internship. I **led the project team** and was responsible for developing frontend pages and coordinating the team's implementation.
 
-**Type:** Team Project
+**Role:** Frontend Developer & Team Lead
 **Tech:** React • JavaScript • Node.js • Express.js • MongoDB
 
 #### 🍰 [Bakery](https://github.com/Vedantkale01/Bakery)
 
-A collaborative web application developed during my internship, with multiple contributors working on the project.
+A collaborative project assigned to my team during my internship for further development and corrections. I **led the team** while working on frontend pages and improvements to the existing application.
 
-**Type:** Team Project
+**Role:** Frontend Developer & Team Lead
 **Tech:** React • JavaScript • Node.js • Express.js • MongoDB
 
 #### 🤖 [AI Voice Agent System](https://github.com/Vedantkale01/AI-voice-agent-system)
 
-An AI-powered voice agent system that I contributed to during my internship, working on the frontend side of the application.
+A frontend-focused AI voice agent application developed during my internship. I made significant contributions to the **frontend development and implementation of the application's user interface**.
 
-**Type:** Internship Contribution / Fork
+**Role:** Frontend Developer
 **Tech:** React • JavaScript • AI Integration
 
 #### 🌾 [Farming](https://github.com/Vedantkale01/farming)
 
-A web application related to a farming use case, maintained as part of my internship project work.
+A farming-related web application worked on during my internship, where I contributed to the development and improvement of frontend pages.
 
-**Type:** Internship Contribution / Fork
+**Role:** Frontend Developer
 **Tech:** React • JavaScript • Node.js • Express.js • MongoDB
 
 
