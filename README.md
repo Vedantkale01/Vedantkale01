@@ -97,3 +97,9 @@ A structured repository documenting my Java Full Stack learning journey, includi
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantkale01\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkale01\&layout=compact\&hide_border=true)
