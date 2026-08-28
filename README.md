@@ -78,37 +78,43 @@ I'm currently focused on becoming a **Java Full Stack Developer** and building p
 
 ## 🚀 Featured Projects
 
-### 💼 Internship Projects
+### ☕ Java Learning — Personal Repository
 
-#### 🧱 BRICKS
+A structured repository documenting my Java Full Stack learning journey, including Core Java, OOP, Collections, Exception Handling, Multithreading, Streams, JDBC, Oracle SQL, and programming practice.
 
-A web application developed during my **Frontend Development Internship**.
+**Type:** Personal Learning Repository
+**Tech:** Java • JDBC • Oracle SQL
 
+### 💼 Internship & Team Projects
+
+#### 🧱 [BRICKS](https://github.com/Vedantkale01/Bricks)
+
+A collaborative web application developed as part of my internship experience. Worked as part of a team of contributors on the project.
+
+**Type:** Team Project
 **Tech:** React • JavaScript • Node.js • Express.js • MongoDB
 
-#### 🍰 Bakery Management
+#### 🍰 [Bakery](https://github.com/Vedantkale01/Bakery)
 
-A web application developed during my internship, focused on creating a functional and responsive user interface.
+A collaborative web application developed during my internship, with multiple contributors working on the project.
 
+**Type:** Team Project
 **Tech:** React • JavaScript • Node.js • Express.js • MongoDB
 
-#### 🌾 Farming Application
+#### 🤖 [AI Voice Agent System](https://github.com/Vedantkale01/AI-voice-agent-system)
 
-A web application developed during my internship, focused on creating a user-friendly interface for a farming-related use case.
+An AI-powered voice agent system that I contributed to during my internship, working on the frontend side of the application.
 
-**Tech:** React • JavaScript • Node.js • Express.js • MongoDB
-
-#### 🤖 AI Voice Agent System
-
-A frontend application developed during my internship for an AI-powered voice agent system.
-
+**Type:** Internship Contribution / Fork
 **Tech:** React • JavaScript • AI Integration
 
-### ☕ Java Learning
+#### 🌾 [Farming](https://github.com/Vedantkale01/farming)
 
-A structured repository documenting my Java Full Stack learning journey, including **Core Java, OOP, Collections, Exception Handling, Multithreading, Streams, JDBC, Oracle SQL, and programming practice**.
+A web application related to a farming use case, maintained as part of my internship project work.
 
-**Tech:** Java • JDBC • Oracle SQL
+**Type:** Internship Contribution / Fork
+**Tech:** React • JavaScript • Node.js • Express.js • MongoDB
+
 
 ## 🤝 Connect With Me
 
